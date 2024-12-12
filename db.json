@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "sjbj",
+      "email": "727823tucs317@skct.edu.in",
+      "password": "veera",
+      "id": 1
+    },
+    {
+      "name": "veeraselvan m",
+      "email": "727823tucs347@skct.edu.in",
+      "password": "veera",
+      "id": 2
+    },
+    {
+      "name": "veeraselvan m",
+      "email": "727823tucs317@skct.edu.in",
+      "password": "veera1",
+      "id": 3
+    },
+    {
+      "name": "veeraselvan m",
+      "email": "23cse.veeraselvan.m@skct.edu.in",
+      "password": "abc",
+      "id": 4
+    },
+    {
+      "name": "veeraselvan m",
+      "email": "23cse.veeraselvan.m@skct.edu.in",
+      "password": "abc",
+      "id": 5
+    },
+    {
+      "name": "Veeraselvan.M",
+      "email": "23cse.veeraselvan.m@skct.edu.in",
+      "password": "abc",
+      "id": 6
+    },
+    {
+      "name": "dwd",
+      "email": "727823tucs347@skct.edu.in",
+      "password": "asd",
+      "id": 7
+    },
+    {
+      "name": "Veeraselvan.M",
+      "email": "727823tucs347@skct.edu.in",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "name": "sandy",
+      "email": "santhosh@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "salman",
+      "email": "sk@gmail.com",
+      "password": "123",
+      "id": 10
+    }
+  ]
+}
